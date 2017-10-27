@@ -1,9 +1,8 @@
 # hello-world
 # test git
 
-||Test Cases|
-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 
+||Test Cases|
 |Conditions/Action|1|2|3|4|5|6|7|8|9|10|11|12|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |User is signed in|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
