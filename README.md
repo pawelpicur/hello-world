@@ -2,8 +2,8 @@
 # test git
 
 
-||Test Cases|
-|Conditions/Action|1|2|3|4|5|6|7|8|9|10|11|12|
+
+|Conditions/Action|Test Cases|
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |User is signed in|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
 |Mandatory params were passed|-|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
