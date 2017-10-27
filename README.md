@@ -3,7 +3,7 @@
 
 
 
-|Conditions/Action|Test Cases|<td colspan=10>derp |
+|Conditions/Action|Test Cases|<td colspan=10>derp
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |User is signed in|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
 |Mandatory params were passed|-|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
