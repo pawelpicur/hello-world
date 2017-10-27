@@ -3,7 +3,7 @@
 
 
 
-|Conditions/Action|Test Cases|
+|Conditions/Action|Test Cases|||||||||||
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |User is signed in|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
 |Mandatory params were passed|-|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
