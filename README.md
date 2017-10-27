@@ -3,7 +3,7 @@
 
 
 
-<td colspan=12>derp</td>
+<td colspan=14>derp</td>
 |:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
 |User is signed in|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
 |Mandatory params were passed|-|N|Y|Y|Y|Y|Y|Y|Y|Y|Y|Y|
